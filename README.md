@@ -1,2 +1,2 @@
-# CVD-Risk-Prediction
-This repository contains end-to-end content of Cardiovascular Disease Risk Prediction System.
+# Cardiovascular-Disease-Prediction
+This Repository contains End to End Project of Cardiovascular Disease Prediction System.
